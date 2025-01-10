@@ -1,0 +1,59 @@
+.AllTheCards{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    place-content: center;
+}
+
+.Card{
+    margin-left: 5rem;
+}
+
+.Secratary{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    font-weight: bolder;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.TopFunder{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    font-weight: bolder;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.Founder{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+    font-weight: bolder;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.Details{
+    font-family: 'Times New Roman', Times, serif;
+    max-width: 150px;
+}
+
+.ContactButton{
+    margin-top: 1rem;
+    position: relative;
+    bottom: 0px;
+}
+
+.Card1{
+    margin-left: 5rem;
+}
+
+.Card2{
+    margin-left: 5rem;
+}
+
+.Avatar{
+    border-radius: 50%;
+    height: 10rem;
+    max-width: fit-content;
+}

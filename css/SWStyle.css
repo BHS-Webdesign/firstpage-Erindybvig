@@ -1,0 +1,43 @@
+.TitleCard{
+    display: block;
+    background-color: blue;
+}
+
+.Card{
+    display: block;
+    background-color: blue;
+    border-radius: 10%;
+}
+
+.Card1{
+    display: block;
+    background-color: blue;
+    border-radius: 10%;
+}
+
+.Card2{
+    display: block;
+    background-color: blue;
+    border-radius: 10%;
+}
+
+.MainPage{
+    display: flex;
+    flex: row;
+}
+
+.Contents{
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+    margin-left: 0px;
+    max-width: 150px;
+}
+
+.WhateverTheHellIWant{
+    display: flex;
+    flex-direction: column;
+    max-width: 25rem;
+    margin-left: 10.25rem;
+    background-color: blue;
+}
